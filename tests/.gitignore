@@ -1,0 +1,9 @@
+# Generated test outputs - ignore these
+*.log
+*.json
+test_results_*.md
+PART_LOOKUP_RESULTS_*.md
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
